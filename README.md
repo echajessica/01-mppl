@@ -2,7 +2,7 @@
 
 ## A. Metode Klasik
 
-    Beberapa metode dasar (klasik) diantaranya seperti :
+Beberapa metode dasar (klasik) diantaranya seperti :
 1. Model Waterfall  
 
     Model Waterfall merupakan salah satu model untuk perencanaan dari sebuah Perangkat Lunak. Model Waterfall adalah salah satu model klasik yang bersifat sistematis. 
